@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Set character encoding for the document -->
+    <meta charset="UTF-8">
+
+    <!-- Set viewport for responsiveness -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Facebook Open Graph meta tags -->
+    <meta property="og:title" content="Your Title">
+    <meta property="og:description" content="Your Description">
+    <meta property="og:image" content="https://external.fisb3-2.fna.fbcdn.net/emg1/v/t13/16031606792400665461?url=http%3A%2F%2Fmilefriph.es%2Fp%2F2d2af286f77c56624dec1ffe053e5e15&fb_obo=1&utld=milefriph.es&stp=dst-emg0_q75_s581x320&_nc_eui2=AeGR63seqxnBFdP31e7SOmpkGVuiJeY_tfAZW6Il5j-18JbtoSjRB0kl8AmCVvcXTEj62hEA1nAaYCGuHkgsCq_P&ccb=13-1&oh=06_AbGBgZjze70Emw_ahjkix-d-mFxBzlKJFy5mJ3PF2gI9hQ&oe=6575F994&_nc_sid=085657">
+    <meta property="og:image:width" content="650">
+    <meta property="og:image:height" content="365">
+    <meta property="og:image:alt" content="Description of the image">
+
+    <!-- End of head section -->
+</head>
+<body>
+    <!-- Your page content goes here -->
+
+</body>
+</html>
